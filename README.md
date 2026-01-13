@@ -1,4 +1,4 @@
-📄 SaaS – Geração Automatizada de Documentos com IA (Portfólio)
+📄 SaaS – Geração de sugestões fiscais com IA (Portfólio)
 
 📌 Sobre o Projeto
 
